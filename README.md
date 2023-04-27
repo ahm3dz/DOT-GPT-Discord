@@ -14,10 +14,15 @@ git clone https://github.com/ahmedzhrani/DOT-GPT .
 npm install discord.js openai dotenv
 ```
 
-3 - ادخل الرابط ادناه واستخرج المعرف للبوت 
+3 - ادخل الرابط ادناه واستخرج المعرف للبوت
+
 [DDP Bot Token](https://discord.com/developers/applications)
+
+
 4 - ادخل الرابط ادناه واستخرج مفتاح API من موقع OpenAI
+
 [OpenAI API](https://platform.openai.com/account/api-keys)
+
 
 
 ## طريقة التشغيل

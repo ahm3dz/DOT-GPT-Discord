@@ -12,4 +12,7 @@ This is a simple Discord chat bot built using discord.js and the gpt-3.5-turbo m
 
 3- ادخل ملف .env وحط التوكين حق البوت وحط الاAPI حق OpenAI  وحط رقم القناة في الديسكورد 
 
-4 - شغل البوت بالامر هذا ```powershell   npm run start```
+4 - شغل البوت بالامر هذا 
+```powershell
+npm run start
+```

@@ -1,6 +1,6 @@
 #  DOT GPT Chat Bot
 
-This is a simple Discord chat bot built using discord.js and the gpt-3.5-turbo model from Open AI. This is the same model used for the popular chatbot Chat GPT.
+هذا روبوت محادثة بسيط على Discord تم إنشاؤه باستخدام discord.js ونموذج gpt-3.5-turbo من Open AI
 
 
 ## How to setup

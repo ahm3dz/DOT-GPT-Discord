@@ -35,5 +35,5 @@ npm run start
 ```
 
 سيرغر المطور 
-[Discord Server](https://discord.gg/zsuk236jmx)
+[Discord Server](https://discord.gg/mGs8rAqtv5)
 

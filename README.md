@@ -39,6 +39,6 @@ CHANNEL_ID = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 npm run start
 ```
 
-سيرغر المطور 
+سيرفر المطور 
 [Discord Server](https://discord.gg/mGs8rAqtv5)
 

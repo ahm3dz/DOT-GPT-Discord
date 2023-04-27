@@ -6,7 +6,7 @@
 ## طريقة التثبيت
 1- استنسخ المستودع الى محرر الاكواد 
 ```powershell
-git clone https://github.com/ahmedzhrani/DOT-GPT .
+git clone https://github.com/ahmedzhrani/DOT-GPT
 ```
 
 2 - قم بتثبيت المكتبات هذي

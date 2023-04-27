@@ -11,7 +11,7 @@
 npm install discord.js openai dotenv
 ```
 ### 2
-ادخل ملف .env وحط التوكين حق البوت وحط الاAPI حق OpenAI  وحط رقم القناة في الديسكورد
+ادخل ملف .env وحط التوكين حق البوت وحط الا API حق OpenAI  وحط رقم القناة في الديسكورد
 ## Url
 [OpenAI API](https://platform.openai.com/account/api-keys)
 

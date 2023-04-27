@@ -5,14 +5,18 @@
 
 ## How to setup
 
+1 - ثبت هذي المكتبات
+```powershell
+npm install discord.js openai dotenv
+```
 
-1 - حمل الملفات
+2 - ادخل ملف .env وحط التوكين حق البوت وحط الاAPI حق OpenAI  وحط رقم القناة في الديسكورد 
+OpenAI API ```https://platform.openai.com/account/api-keys```
 
-2 - فك الضغط وحطها في VSCode
+DDP Bot Token ```https://discord.com/developers/applications```
 
-3- ادخل ملف .env وحط التوكين حق البوت وحط الاAPI حق OpenAI  وحط رقم القناة في الديسكورد 
 
-4 - شغل البوت بالامر هذا 
+3 - شغل البوت بالامر هذا 
 ```powershell
 npm run start
 ```

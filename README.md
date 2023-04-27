@@ -16,12 +16,12 @@ npm install discord.js openai dotenv
 
 3 - ادخل الرابط ادناه واستخرج المعرف للبوت
 
-[DDP Bot Token](https://discord.com/developers/applications)
+الرابط [DDP Bot Token](https://discord.com/developers/applications)
 
 
 4 - ادخل الرابط ادناه واستخرج مفتاح API من موقع OpenAI
 
-[OpenAI API](https://platform.openai.com/account/api-keys)
+الرابط [OpenAI API](https://platform.openai.com/account/api-keys)
 
 
 

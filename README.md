@@ -1,6 +1,6 @@
 #  DOT GPT Chat Bot
 
-هذا روبوت محادثة بسيط على Discord تم إنشاؤه باستخدام discord.js ونموذج gpt-3.5-turbo من Open AI
+هذا بوت محادثة على Discord تم إنشاؤه باستخدام discord.js ونموذج gpt-3.5 من Open AI
 
 
 ## How to setup

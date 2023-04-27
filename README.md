@@ -33,3 +33,7 @@ CHANNEL_ID = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```powershell
 npm run start
 ```
+
+سيرغر المطور 
+[Discord Server](https://discord.gg/zsuk236jmx)
+

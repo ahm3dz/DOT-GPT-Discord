@@ -34,7 +34,7 @@ API_KEY = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 CHANNEL_ID = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
-2 - في موجه الاوامر ضع هذا الامر واضغط Entar
+2 - في موجه الأوامر ضع هذا الامر واضغط Enter
 ```powershell
 npm run start
 ```
